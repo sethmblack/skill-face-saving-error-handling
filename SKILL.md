@@ -4,7 +4,7 @@ description: Address mistakes, incidents, or poor performance while preserving t
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3970
+  version: 1.0.3971
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - face-saving-error-handling
