@@ -3,8 +3,9 @@ name: face-saving-error-handling
 description: Address mistakes, incidents, or poor performance while preserving the person's dignity and maintaining the relationship, using Dale Carnegie's face-saving principles and blameless retrospective app...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3970
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - face-saving-error-handling
 - writing
